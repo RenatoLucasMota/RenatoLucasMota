@@ -10,3 +10,6 @@ Young passionate about technology and software / apps development, content creat
  From a small town in the middle of São Paulo to the World!
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/renatomotadeveloper/) 
+
+
+[<img src="https://img.shields.io/badge/youtube-%230075B5.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=red" />](https://www.youtube.com/channel/UCd-vLa_qcKve3CsDFlYiygA) 
