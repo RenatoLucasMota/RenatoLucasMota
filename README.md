@@ -1,7 +1,7 @@
 ###  Hi I'm Renato Mota 👋
 
 <a href="https://github.com/RenatoLucasMota/RenatoLucasMota">
-  <img align="center" src="![Renato's GitHub stats]https://github-readme-stats.vercel.app/api?username=RenatoLucasMota&hide=contribs,prs"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RenatoLucasMota&hide=contribs,prs"/>
 </a>
 
 Young passionate about technology and software / apps development, content creator,
